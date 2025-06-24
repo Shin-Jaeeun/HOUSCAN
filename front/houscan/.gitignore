@@ -1,0 +1,57 @@
+# ===== Node Modules =====
+node_modules/
+
+# ===== Build output =====
+dist/
+build/
+*.log
+
+# ===== Environment variables =====
+.env
+.env.*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ===== VSCode =====
+.vscode/
+.history/
+
+# ===== System Files =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===== npm/yarn logs =====
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ===== Coverage =====
+coverage/
+*.lcov
+
+# ===== Cache files =====
+.cache/
+.cache-loader/
+__pycache__/
+
+# ===== ESLint / Prettier / Linting Tools =====
+.eslintcache
+
+# ===== IDEs =====
+.idea/
+*.iml
+
+# ===== TypeScript (if used) =====
+*.tsbuildinfo
+
+# ===== Storybook (if used) =====
+.out/
+
+# ===== Optional: Vue CLI plugin-specific =====
+public/mock/
+public/static/

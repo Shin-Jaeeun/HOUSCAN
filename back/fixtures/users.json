@@ -1,0 +1,87 @@
+[
+{
+  "model": "accounts.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$kashxXgO6XKTGWoJCmwMOd$pPDkUTeYhtnk1upOgbGlN729OtRu54GNFhZNCledJTo=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "psj0444@naver.com",
+    "username": "수댕밍",
+    "birthdate": "2001-12-09",
+    "is_active": true,
+    "is_staff": false,
+    "date_joined": "2025-05-26T03:47:01.669Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$jMno46Ux1lOgU5sFSSstam$bw0YBb+nieSDvB1i/M24hJcur3C7Ijjj1Qr9tJvdvmk=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "jenny45280225@gmail.com",
+    "username": "누구셈요",
+    "birthdate": "2001-02-25",
+    "is_active": true,
+    "is_staff": false,
+    "date_joined": "2025-05-27T13:12:33.489Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$Sy8M3JMViwpExnAckcA7mC$rG+HjTSqUBthhsXa5VsiQIX11WqJ1oKQLUSDag9YZME=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "jenny4528@g.skku.edu",
+    "username": "HOT",
+    "birthdate": "2001-02-25",
+    "is_active": true,
+    "is_staff": false,
+    "date_joined": "2025-05-27T17:17:46.316Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$U4LCtcbCisgVyo3bfkIruH$4h1w16mIXqlr+LnzAO2LLT/Os5YI0fLxJhAI6xJCJ2c=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "jaeeun4528@gmail.com",
+    "username": "LotteSand",
+    "birthdate": "2000-01-01",
+    "is_active": true,
+    "is_staff": false,
+    "date_joined": "2025-05-27T17:20:17.636Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$NR9amETDLDgzv5o23Lu5NE$5BNFyoj/dpKXiW+wR/W9CkSMYcF/je4HlTqkOwwVd0c=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "sujeong3724@gmail.com",
+    "username": "OrangeCaramel",
+    "birthdate": "2001-12-09",
+    "is_active": true,
+    "is_staff": false,
+    "date_joined": "2025-05-27T17:27:52.055Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
